@@ -1,0 +1,135 @@
+
+.first{
+    position: relative;
+    
+}
+.second{
+    position: absolute;
+    left: 7px;
+}
+input{
+    padding: 15px;
+    background-color:#E50914;
+    position: absolute;
+    left: 1400px;
+    bottom: 950px;
+    font-size: 15px;
+    color: white;
+}
+.third{
+   position: absolute;
+   left: 300px;
+   bottom: 450px;
+   
+   color: #FFFFFF;
+   font-size: 30px;
+   
+}
+.flex{
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #000000;
+    align-items: center;
+    
+    
+}
+.fifth{
+    color: #FFFFFF;
+    
+}
+.fifth .hhhh{
+    font-size: 50px;
+    
+}
+.fifth .hhhhh{
+    font-size:25px ;
+}
+.boda{
+    display: flex;
+    justify-content: space-around;
+    background-color: #000000;
+    
+    
+}
+.boda h1{
+    color: #FFFFFF;
+    font-size: 60px;
+}
+.boda p{
+    color: #FFFFFF;
+    font-size: 30px;
+}
+.bodaa{
+    background-color: #000000;
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.bodaa h1{
+    color: #FFFFFF;
+    font-size: 50px;
+}
+.bodaa p{
+    color: #FFFFFF;
+    font-size: 25px;
+}
+.par{
+    padding-top: 100px;
+}
+.body{
+    display: flex;
+    justify-content: space-around;
+    background-color: #000000;
+}
+.j h1{
+ color: #FFFFFF;
+ font-size: 60px;
+}
+.j p{
+    color: #FFFFFF;
+    font-size: 30px;
+}
+.bodyy div h1{
+    
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    z-index: 1;
+    color: #FFFFFF;
+}
+.bodyy{
+    height:1000px ;
+    background-color: #000000;
+    padding-top: 40px;  
+}
+.color{
+    height: 60px;
+    width: 900px;
+    background-color: #303030;
+   margin: auto;
+   font-size: 40px;
+   color: #FFFFFF;
+   padding: 10px 10px 10px 20px;
+}
+.final{
+    height: 500px;
+    background-color: #000000;
+    display: flex;
+    justify-content: space-around;
+}
+.final div h1{
+    color: #585858;
+
+
+}
+.final div p{
+    color: #585858;
+    font-size: 20px;
+}
+.o{
+    background-color: #000000;
+    color: #585858;
+    padding: 40px 60px 40px 40px;
+}
